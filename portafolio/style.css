@@ -3,18 +3,20 @@ color: #0c93a8;
 font-size: 48px;   
 } 
 h1{
-    color: rgb(240, 255, 32);
+    color: rgb(0, 0, 0);
 }
 p{
     color: rgb(255, 255, 255);
 }
 div{
-    background-color: rgb(12, 206, 255);
+    background-color: rgb(0, 21, 255);
     padding: 20px;
     border-style: dotted;
-    border-color: darkkhaki;
+    border-color: rgb(0, 0, 0);
     margin: 20px;
     margin-left: auto;
+   
+    
     border-radius: 20px;
 
 }
