@@ -22,7 +22,22 @@ div{
 }
 
 
-img{
+.imgRound{
     border-radius: 60px;
 
 }
+
+
+a
+{
+    color: chartreuse;
+}
+
+
+b
+{
+    color: rgb(255, 157, 0);
+}
+
+
+
