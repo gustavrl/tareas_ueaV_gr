@@ -27,6 +27,16 @@ div{
 
 }
 
+.fotos
+{
+    background-color: #1772b8;
+    border-style:none;
+    margin:0px;
+    padding:flex;
+    display: flex;
+    justify-content:center;
+}
+
 
 a
 {
