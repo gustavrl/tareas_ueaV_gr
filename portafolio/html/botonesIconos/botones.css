@@ -1,0 +1,31 @@
+body{background-color: #ffffff;
+
+}
+header{ background-color: #ffe6ff;
+    padding: 4px;
+
+}
+nav{background-color: #ccffff;
+padding: 4px;
+}
+div{background-color: #ffffcc;
+padding: 4px;
+}
+
+footer{background-color: #ccffcc;
+padding: 4px;
+}
+
+.fa{
+    color: #4d6600;
+}
+.fa-instagram{
+    color: darkmagenta;
+
+}
+.fa-snapchat{
+    color: gold;
+}
+.fa-youtube{
+    color: darkred;
+}
